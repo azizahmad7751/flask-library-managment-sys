@@ -1,0 +1,23 @@
+{
+  "title": "Library Management System",
+  "home": "Home",
+  "add_book": "Add Book",
+  "search_books": "Search Books",
+  "book_list": "Book List",
+  "id": "ID",
+  "title_field": "Title",
+  "author": "Author",
+  "year": "Year",
+  "status": "Status",
+  "in_stock": "In Stock",
+  "issued": "Issued",
+  "actions": "Actions",
+  "update": "Update",
+  "delete": "Delete",
+  "keyword": "Keyword",
+  "search": "Search",
+  "add_new_book": "Add a New Book",
+  "submit": "Submit",
+  "all_fields_required": "All fields are required!",
+  "book_added": "Book added successfully!"
+}
